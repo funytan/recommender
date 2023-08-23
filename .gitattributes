@@ -1,0 +1,2 @@
+vector_store_jobs.txt filter=lfs diff=lfs merge=lfs -text
+*.md filter=lfs diff=lfs merge=lfs -text
